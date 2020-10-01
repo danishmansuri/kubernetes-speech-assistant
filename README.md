@@ -1,6 +1,7 @@
 # Talk to an app that can create and manage your Kubernetes instances
 
 >A Kubernetes Assistant that can manage your Kubernetes clusters on IBM Cloud through voice
+this is very good performance 
 
 Watch the [video](https://youtu.be/MTG4uqiTpCg) to check out a demo of the application.
 
